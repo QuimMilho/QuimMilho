@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @QuimMilho. I'm a portuguese student of computer engineering!
 - 👀 I’m love programming and playing some games!
 - 🌱 I’m currently learning C and have a good knowledge of Java and JavaScript.
-- 📫 You can reach me using my contact email contact@quimmilho.net or sending a DM to my Instagram jmilheiro_
+- 📫 You can reach me using my contact email contact.quimmilho@gmail.com or sending a DM to my Instagram jmilheiro_
